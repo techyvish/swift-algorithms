@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../../Cerebro/swift-algorithm/swift-algorithms.playground">
+      location = "self:SwiftAlgorithms.xcodeproj">
    </FileRef>
 </Workspace>
